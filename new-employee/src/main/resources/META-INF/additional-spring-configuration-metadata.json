@@ -1,0 +1,37 @@
+{"properties": [
+  {
+    "name": "error.unknownServerError",
+    "type": "java.lang.String",
+    "description": "A description for 'error.unknownServerError'"
+  },
+  {
+    "name": "camel.mongodb.database",
+    "type": "java.lang.String",
+    "description": "A description for 'camel.mongodb.database'"
+  },
+  {
+    "name": "camel.mongodb.collection1",
+    "type": "java.lang.String",
+    "description": "A description for 'camel.mongodb.collection1'"
+  },
+  {
+    "name": "camel.mongodb.collection2",
+    "type": "java.lang.String",
+    "description": "A description for 'camel.mongodb.collection2'"
+  },
+  {
+    "name": "camel.mongodb.collection4",
+    "type": "java.lang.String",
+    "description": "A description for 'camel.mongodb.collection4'"
+  },
+  {
+    "name": "camel.mongodb.collection3",
+    "type": "java.lang.String",
+    "description": "A description for 'camel.mongodb.collection3'"
+  },
+  {
+    "name": "error.unknownServerError",
+    "type": "java.lang.String",
+    "description": "A description for 'error.unknownServerError'"
+  }
+]}
